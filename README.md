@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi there, I'm Alan Mong🌟</h1>
+<h1 align="center">🌟 Helloooo, I'm Alan Mong!!🌟</h1>
 
 <p align="center">
 I am a Computer Science student at California Polytechnic University, Pomona. I am a passionate learner bringing a strong foundation in software development, cloud computing, with proven skills in full-stack development (React, Node.js, SpringBoot), cloud services (AWS), and agile project management. Looking to leverage
