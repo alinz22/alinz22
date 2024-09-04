@@ -14,10 +14,10 @@ expertise in building scalable applications and to contribute to innovative proj
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 
 <p align="center">
-  <strong>Programming Languages:</strong> Python, JavaScript, Java, HTML/CSS, C, SQL, Assembly<br>
-  <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, Material UI, HTML/CSS, JavaScript<br>
+  <strong>Programming Languages:</strong> Python, JavaScript, Java, Typescript, HTML/CSS, C, SQL, Assembly<br>
+  <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, Material UI,<br>
   <strong>Backend Development:</strong> Node.js, Express.js, Spring Boot, REST API Design<br>
-  <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma<br>
+  <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, Mongoose,AWS (EC2, RDS, S3, Lambda), Firebase, Figma + more<br>
   <strong>Databases:</strong> MongoDB, MySQL<br>
   <strong>DevOps & Tools:</strong> Git, GitHub, Docker, Vercel, Linux, CI/CD Pipelines (Vercel, Render)<br>
 </p>
