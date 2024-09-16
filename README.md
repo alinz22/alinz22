@@ -8,9 +8,10 @@ expertise in building scalable applications and to contribute to innovative proj
 <h2 align="center">🌱 What I'm Currently Working On</h2>
 
 <p align="center">
-   <a href="https://github.com/taskStars/TaskStarsProd">TaskStars/InsightColledt/TeenFashion</a>.
-  <a href="https://github.com/">TaskStars/InsightColledt/TeenFashion</a>.
-  <a href="https://github.com/">TaskStars/InsightColledt/TeenFashion</a>.
+   <a href="https://github.com/taskStars/TaskStarsProd">TaskStars</a>.
+  <a href="https://github.com/">Shirt Canvas</a>.
+  <a href="https://github.com/">InsightCollect</a>.
+   <a>Banking System</a>
 </p>
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
