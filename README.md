@@ -11,6 +11,7 @@ expertise in building scalable applications and to contribute to innovative proj
    <a href="https://github.com/taskStars/TaskStarsProd">TaskStars</a>.
   <a href="https://github.com/">Shirt Canvas</a>.
   <a href="https://github.com/">InsightCollect</a>.
+   <a href="https://github.com/alinz22/FriendConnect">FriendConnect</a>.
    <a>Banking System</a>,
    <a>ASP.NET/Angular web application to generate and forecast about project inisghts and prodcutivity via third party tools (github jira etc...)(STARTING SOON)</a>
 </p>
