@@ -11,8 +11,8 @@ expertise in building scalable applications and to contribute to innovative proj
    <a href="https://github.com/taskStars/TaskStarsProd">TaskStars</a>.
   <a href="https://github.com/">Shirt Canvas</a>.
   <a href="https://github.com/">InsightCollect</a>.
-   <a>Banking System</a>
-   <a>ASP.NET/Angular web application to generate and forecast about project inisghts and prodcutivity (STARTING SOON</a>
+   <a>Banking System</a>,
+   <a>ASP.NET/Angular web application to generate and forecast about project inisghts and prodcutivity via third party tools (github jira ec...)(STARTING SOON)</a>
 </p>
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
